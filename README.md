@@ -1,0 +1,1 @@
+In this project, we have taken the airbases of China and India and compared the pictures of the airbases in 2019 and 2023. We then look at the airbases and see how much they have changed over the period of time since the Galwan clash. And we found out that China had more upgrades in their airbases than India.
